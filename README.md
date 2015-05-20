@@ -8,6 +8,8 @@
 
 	Copyright (C) 2015 by Jens Mönig
 
+	demo clip: https://www.youtube.com/watch?v=iuRJIG6KNYk
+
 	charts.js is free software: you can redistribute it and/or modify
 	it under the terms of the GNU Affero General Public License as
 	published by the Free Software Foundation, either version 3 of
